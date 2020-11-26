@@ -1,5 +1,3 @@
-
-
 def parse(companies, name_file):
 
     names_set = set()
